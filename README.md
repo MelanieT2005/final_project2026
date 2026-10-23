@@ -7,7 +7,7 @@ Users will be able to browse a music catalog, write reviews, give ratings, follo
 # Agile Planning:
 | Dates | Title | Goal/Focus |
 |-------|-------|------------|
-| 10/17-10/23 | Project Planning | Complete the project description, initial project backlog, user stories, agile plan, and GitHub repo |
+| 10/17 - 10/23 | Project Planning | Complete the project description, initial project backlog, user stories, agile plan, and GitHub repo |
 | 10/24 - 10/30 | Website Structure | Build the initial website structure and navigation, including the home page layout |
 | 10/31 - 11/06 | Interface Prototype | Create main interface screens (home page, user profile, and music review page). |
 | 11/07 - 11/13 | User Management | Implement user registration, login, and profile management in time for second deliverable |
