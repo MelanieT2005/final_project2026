@@ -6,5 +6,5 @@ Users will be able to browse a music catalog, write reviews, give ratings, follo
 
 # Agile Planning:
 | Dates | Title | Goal/Focus |
-|----------------------------|
+|-------|-------|------------|
 | 10/17-10/23 | Project Planning | Complete the project description, initial project backlog, user stories, agile plan, and GitHub repo |
